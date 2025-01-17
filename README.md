@@ -1,6 +1,12 @@
 # Sohila Khaled Abbas - Portfolio
 
-Welcome to the official portfolio of **Sohila Khaled Abbas**, a passionate data analyst specializing in **data visualization**, **statistical analysis**, and **programming**. This portfolio showcases my professional journey, including my projects, skills, and contact details.
+Welcome to the official repository for **Sohila Khaled Abbas' Portfolio Website**. This website showcases my work as a **Data Analyst**, including my skills, projects, and the value I bring to organizations through **data visualization**, **analytics**, and **automated reporting**.
+
+## About
+
+This repository contains the code and assets for my personal portfolio website. It serves as a professional hub where visitors can explore my **data analysis** projects, **skills**, and get in touch with me. The site is built using **HTML**, **CSS**, and **JavaScript**, offering a clean and interactive user experience.
+
+---
 
 ## Table of Contents
 
@@ -25,6 +31,7 @@ In this portfolio, you'll find projects that highlight my proficiency in working
 - **Data Management**: ETL, Data Cleaning, Data Transformation, Data Modeling
 - **Analysis & Reporting**: Statistical Analysis, Exploratory Data Analysis (EDA), DAX
 - **Soft Skills**: Stakeholder Communication, Problem Solving, Team Collaboration
+  
 
 ## Projects
 
@@ -38,13 +45,11 @@ Here are some of the key projects I have worked on:
 
 Check out more projects in the [Projects Section](https://sohila-khaled-abbas.github.io/Portfolio/index.html#projects).
 
-## Contact
+---
 
-Feel free to reach out if you have any questions or want to collaborate on a project!
+## Live Website
 
-- **Email**: [sohilakhaled811@gmail.com](mailto:sohilakhaled811@gmail.com)
-- **LinkedIn**: [linkedin.com/in/sohilakhaledabbas](https://www.linkedin.com/in/sohilakhaledabbas)
-- **GitHub**: [github.com/Sohila-Khaled-Abbas](https://github.com/Sohila-Khaled-Abbas)
+You can view the live portfolio website at [Sohila Khaled Abbas Portfolio](https://sohila-khaled-abbas.github.io/Portfolio).
 
 ## Technologies Used
 
@@ -56,29 +61,36 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 - **Python**: For data analysis and automation in projects.
 - **GitHub Pages**: For hosting the portfolio online.
 
-## Installation
+## Getting Started
 
-To view the portfolio locally, follow these steps:
+To get started with this repository:
 
-1. Clone this repository:
+1. Clone this repository to your local machine:
 
     ```bash
     git clone https://github.com/Sohila-Khaled-Abbas/portfolio.git
     ```
 
-2. Open the `index.html` file in your browser.
+2. Open the `index.html` file in your browser to view the site locally.
 
     ```bash
     open index.html
     ```
 
-Enjoy exploring my portfolio!
+3. Customize or contribute as needed. Feel free to fork the repository or submit a pull request!
 
 ---
 
-Feel free to contribute, or if you have any feedback or suggestions, don’t hesitate to contact me.
+## Contact
+
+Feel free to reach out if you have any questions or want to collaborate on a project!
+
+- **Email**: [sohilakhaled811@gmail.com](mailto:sohilakhaled811@gmail.com)
+- **LinkedIn**: [linkedin.com/in/sohilakhaledabbas](https://www.linkedin.com/in/sohilakhaledabbas)
+- **GitHub**: [github.com/Sohila-Khaled-Abbas](https://github.com/Sohila-Khaled-Abbas)
 
 ---
-**Sohila Khaled Abbas**  
-*Data Analyst | Data Visualization | Python Developer*
+## License
+
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE.md) file for more information.
 

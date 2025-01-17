@@ -36,7 +36,7 @@ Here are some of the key projects I have worked on:
 - [**HR Analytics Dashboard**](https://github.com/Sohila-Khaled-Abbas/HR-Analytics-Dashboard): A dynamic HR dashboard created with Power BI and DAX for employee attendance analysis.
 - [**IMDB Top 250 Movies Dashboard**](https://github.com/Sohila-Khaled-Abbas/IMDB-Top250-Movies-Dashboard): Visualized trends and distributions of IMDB top 250 movies using Power BI.
 
-Check out more projects in the [Projects Section](#projects).
+Check out more projects in the [Projects Section](https://sohila-khaled-abbas.github.io/Portfolio/index.html#projects).
 
 ## Contact
 

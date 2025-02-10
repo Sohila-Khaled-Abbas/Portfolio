@@ -85,9 +85,9 @@ To get started with this repository:
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
 
-- **Email**: [sohilakhaled811@gmail.com](mailto:sohilakhaled811@gmail.com)
-- **LinkedIn**: [linkedin.com/in/sohilakhaledabbas](https://www.linkedin.com/in/sohilakhaledabbas)
-- **GitHub**: [github.com/Sohila-Khaled-Abbas](https://github.com/Sohila-Khaled-Abbas)
+- [**Email**](mailto:sohilakhaled811@gmail.com)
+- [**LinkedIn**](www.linkedin.com/in/sohilakabbas)
+- [**GitHub**](https://github.com/Sohila-Khaled-Abbas)
 
 ---
 ## License
